@@ -36,7 +36,7 @@ All other state transitions, where the agent moves on the frozen surface, have a
 
 6.Episode: An episode in the Frozen Lake environment represents a single playthrough, starting from the initial state and ending when the agent either reaches the goal or falls into a hole. The agent aims to learn and refine its policy over multiple episodes through trial and error.
 
-Q-learning: Learning to Optimize Actions
+# Q-learning: Learning to Optimize Actions
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Q-learning is a fundamental concept in the field of reinforcement learning, a subfield of artificial intelligence. It is a model-free, off-policy reinforcement learning algorithm that is widely used for solving problems where an agent interacts with an environment to maximize its cumulative reward. Here's a brief note on Q-learning:
 Q-learning is a popular reinforcement learning algorithm that allows an agent to learn optimal actions in an environment to achieve specific goals. It's particularly well-suited for problems where the agent doesn't have prior knowledge about the environment and must learn through trial and error.
